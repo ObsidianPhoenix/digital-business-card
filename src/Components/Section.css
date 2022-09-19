@@ -1,0 +1,21 @@
+.section {
+    padding: 0 36px 0 36px;
+    margin-top: 27px;
+}
+
+.section--title {
+    color: rgba(245, 245, 245, 1);
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.section--content {
+    font-size: 10px;
+    font-weight: 400;
+    font-style: normal;
+    color: rgba(220, 220, 220, 1);
+    padding-top: 5px;
+    text-align: justify;
+    text-justify: inter-word;
+    line-height: 150%;
+}
